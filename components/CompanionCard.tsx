@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import bookmarkIcon from '@/assets/bookmark.svg'
 import Link from 'next/link';
 
 interface CompanionCardProps {
